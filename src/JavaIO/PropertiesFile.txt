@@ -1,0 +1,5 @@
+#Adding student data through Properties file
+#Sat Jul 20 14:22:24 IST 2024
+name=alex
+rollNo=10001
+class=12

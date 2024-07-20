@@ -1,0 +1,1 @@
+Insert data by using the buffer writer
